@@ -1,0 +1,19 @@
+{
+  "name": "holamundo",
+  "version": "1.0.0",
+  "description": "ejercicio en clase nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JefersonYandun/NodeHolaMundo.git"
+  },
+  "author": "Jeferson Yandun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JefersonYandun/NodeHolaMundo/issues"
+  },
+  "homepage": "https://github.com/JefersonYandun/NodeHolaMundo#readme"
+}
